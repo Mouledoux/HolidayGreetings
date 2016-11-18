@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: cda434752d9f2044887f05c216106ce4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cube
+    100006: Cube.001
+    100008: Lamp
+    100010: TreeWinter11
+    100012: TreeWinter11_Alt1
+    100014: TreeWinter11_Alt2
+    100016: TreeWinter11_Alt3
+    100018: TreeWinter11_Alt4
+    100020: TreeWinter12
+    100022: TreeWinter12_Alt1
+    100024: TreeWinter12_Alt2
+    100026: TreeWinter12_Alt3
+    100028: TreeWinter12_Alt4
+    400000: //RootNode
+    400002: Camera
+    400004: Cube
+    400006: Cube.001
+    400008: Lamp
+    400010: TreeWinter11
+    400012: TreeWinter11_Alt1
+    400014: TreeWinter11_Alt2
+    400016: TreeWinter11_Alt3
+    400018: TreeWinter11_Alt4
+    400020: TreeWinter12
+    400022: TreeWinter12_Alt1
+    400024: TreeWinter12_Alt2
+    400026: TreeWinter12_Alt3
+    400028: TreeWinter12_Alt4
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Cube.001
+    2300006: TreeWinter11
+    2300008: TreeWinter11_Alt1
+    2300010: TreeWinter11_Alt2
+    2300012: TreeWinter11_Alt3
+    2300014: TreeWinter11_Alt4
+    2300016: TreeWinter12
+    2300018: TreeWinter12_Alt1
+    2300020: TreeWinter12_Alt2
+    2300022: TreeWinter12_Alt3
+    2300024: TreeWinter12_Alt4
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Cube.001
+    3300006: TreeWinter11
+    3300008: TreeWinter11_Alt1
+    3300010: TreeWinter11_Alt2
+    3300012: TreeWinter11_Alt3
+    3300014: TreeWinter11_Alt4
+    3300016: TreeWinter12
+    3300018: TreeWinter12_Alt1
+    3300020: TreeWinter12_Alt2
+    3300022: TreeWinter12_Alt3
+    3300024: TreeWinter12_Alt4
+    4300000: TreeWinter12_Alt1
+    4300002: Cube.001
+    4300004: Cube
+    4300006: TreeWinter12_Alt4
+    4300008: TreeWinter12_Alt3
+    4300010: TreeWinter12_Alt2
+    4300012: TreeWinter11_Alt4
+    4300014: TreeWinter11_Alt3
+    4300016: TreeWinter11_Alt2
+    4300018: TreeWinter11_Alt1
+    4300020: TreeWinter12
+    4300022: TreeWinter11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
