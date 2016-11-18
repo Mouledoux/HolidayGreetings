@@ -1,0 +1,28 @@
+Change Log
+
+
+Version 1.1:
+
+* MeshMerge.cs 
+	+ Changed the default centering mode to grid aligned.
+	
+* Added further code commenting to all classes
+
+* Changed the Skybox textures to use only 1 image for the side textures
+	
+* Restructured folders to match other Yetikatt packs.
+
+
+
+Version 1.0:
+
+Initial Release.
+
+
+
+
+For any questions regarding this pack please contact:
+
+chris@yetikatt.com
+
+Thank you for purchasing this pack :)
