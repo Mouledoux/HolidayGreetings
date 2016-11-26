@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: df31f96d03680df4095794b800c18df7
+timeCreated: 1480093333
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Penguin_001
+    100002: PenguinJointHead
+    100004: PenguinJointLeftArm1
+    100006: PenguinJointLeftArm2
+    100008: PenguinJointLeftArm3
+    100010: PenguinJointLeftLeg1
+    100012: PenguinJointLeftLeg2
+    100014: PenguinJointNeck
+    100016: PenguinJointRightArm1
+    100018: PenguinJointRightArm2
+    100020: PenguinJointRightArm3
+    100022: PenguinJointRightleg1
+    100024: PenguinJointRightLeg2
+    100026: PenguinJointRoot
+    100028: PenguinJointSpine2
+    100030: PenguinJointSpine3
+    100032: PenguinJointTail1
+    100034: PenguinJointTail2
+    100036: PenguinJointTail3
+    100038: //RootNode
+    400000: Penguin_001
+    400002: PenguinJointHead
+    400004: PenguinJointLeftArm1
+    400006: PenguinJointLeftArm2
+    400008: PenguinJointLeftArm3
+    400010: PenguinJointLeftLeg1
+    400012: PenguinJointLeftLeg2
+    400014: PenguinJointNeck
+    400016: PenguinJointRightArm1
+    400018: PenguinJointRightArm2
+    400020: PenguinJointRightArm3
+    400022: PenguinJointRightleg1
+    400024: PenguinJointRightLeg2
+    400026: PenguinJointRoot
+    400028: PenguinJointSpine2
+    400030: PenguinJointSpine3
+    400032: PenguinJointTail1
+    400034: PenguinJointTail2
+    400036: PenguinJointTail3
+    400038: //RootNode
+    4300000: Penguin_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Penguin_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Penguin_001
+        weight: 1
+      - path: PenguinJointRoot
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointLeftLeg1
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointLeftLeg1/PenguinJointLeftLeg2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointRightleg1
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointRightleg1/PenguinJointRightLeg2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1/PenguinJointLeftArm2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1/PenguinJointLeftArm2/PenguinJointLeftArm3
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointNeck
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointNeck/PenguinJointHead
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1/PenguinJointRightArm2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1/PenguinJointRightArm2/PenguinJointRightArm3
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointTail1
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointTail1/PenguinJointTail2
+        weight: 1
+      - path: PenguinJointRoot/PenguinJointTail1/PenguinJointTail2/PenguinJointTail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
