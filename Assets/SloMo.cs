@@ -14,7 +14,7 @@ public class SloMo : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0) && !timeSlowed)
         {
             timeSlowed = true;
-            StartCoroutine(BulletTime(0.3f));
+            StartCoroutine(BulletTime(0.15f));
         }
 
             Time.timeScale = timeScale; // Ze Worrrldo

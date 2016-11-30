@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: df54e02a9f9a49741a7dc66f27d0dc2d
+timeCreated: 1480528641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Mistletoe
+    100002: MistletoeJoint
+    100004: Snowman
+    100006: SnowmanJoint_01
+    100008: SnowmanJoint_02
+    100010: SnowmanJoint_03
+    100012: SnowmanJoint_04
+    100014: SnowmanJoint_05
+    100016: SnowmanJoint_06
+    100018: transform1
+    100020: transform2
+    100022: Yeti_Model
+    100024: YetiCtrl
+    100026: YetiJointLeftArmJoint_01
+    100028: YetiJointLeftArmJoint_02
+    100030: YetiJointLeftArmJoint_03
+    100032: YetiJointLeftClavical
+    100034: YetiJointLeftLegJoint_01
+    100036: YetiJointLeftLegJoint_02
+    100038: YetiJointLeftLegJoint_03
+    100040: YetiJointRightArmJoint_01
+    100042: YetiJointRightArmJoint_02
+    100044: YetiJointRightArmJoint_03
+    100046: YetiJointRightClavical
+    100048: YetiJointRightLegJoint_01
+    100050: YetiJointRightLegJoint_02
+    100052: YetiJointRightLegJoint_03
+    100054: YetiJointSpine_01
+    100056: YetiJointSpine_02
+    100058: YetiJointSpine_03
+    100060: YetiJointSpine_04
+    100062: YetiJointSpine_05
+    100064: YetiRootJoint
+    100066: //RootNode
+    400000: Mistletoe
+    400002: MistletoeJoint
+    400004: Snowman
+    400006: SnowmanJoint_01
+    400008: SnowmanJoint_02
+    400010: SnowmanJoint_03
+    400012: SnowmanJoint_04
+    400014: SnowmanJoint_05
+    400016: SnowmanJoint_06
+    400018: transform1
+    400020: transform2
+    400022: Yeti_Model
+    400024: YetiCtrl
+    400026: YetiJointLeftArmJoint_01
+    400028: YetiJointLeftArmJoint_02
+    400030: YetiJointLeftArmJoint_03
+    400032: YetiJointLeftClavical
+    400034: YetiJointLeftLegJoint_01
+    400036: YetiJointLeftLegJoint_02
+    400038: YetiJointLeftLegJoint_03
+    400040: YetiJointRightArmJoint_01
+    400042: YetiJointRightArmJoint_02
+    400044: YetiJointRightArmJoint_03
+    400046: YetiJointRightClavical
+    400048: YetiJointRightLegJoint_01
+    400050: YetiJointRightLegJoint_02
+    400052: YetiJointRightLegJoint_03
+    400054: YetiJointSpine_01
+    400056: YetiJointSpine_02
+    400058: YetiJointSpine_03
+    400060: YetiJointSpine_04
+    400062: YetiJointSpine_05
+    400064: YetiRootJoint
+    400066: //RootNode
+    4300000: Snowman
+    4300002: Yeti_Model
+    4300004: Mistletoe
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mistletoe
+    13700002: Snowman
+    13700004: Yeti_Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mistletoe
+        weight: 1
+      - path: MistletoeJoint
+        weight: 1
+      - path: Snowman
+        weight: 1
+      - path: SnowmanJoint_01
+        weight: 1
+      - path: SnowmanJoint_01/SnowmanJoint_02
+        weight: 1
+      - path: SnowmanJoint_01/SnowmanJoint_02/SnowmanJoint_03
+        weight: 1
+      - path: SnowmanJoint_01/SnowmanJoint_02/SnowmanJoint_03/SnowmanJoint_04
+        weight: 1
+      - path: SnowmanJoint_01/SnowmanJoint_02/SnowmanJoint_03/SnowmanJoint_04/SnowmanJoint_05
+        weight: 1
+      - path: SnowmanJoint_01/SnowmanJoint_02/SnowmanJoint_03/SnowmanJoint_04/SnowmanJoint_05/SnowmanJoint_06
+        weight: 1
+      - path: Yeti_Model
+        weight: 1
+      - path: YetiCtrl
+        weight: 1
+      - path: YetiCtrl/transform1
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointLeftLegJoint_01
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointLeftLegJoint_01/YetiJointLeftLegJoint_02
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointLeftLegJoint_01/YetiJointLeftLegJoint_02/YetiJointLeftLegJoint_03
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointRightLegJoint_01
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointRightLegJoint_01/YetiJointRightLegJoint_02
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointRightLegJoint_01/YetiJointRightLegJoint_02/YetiJointRightLegJoint_03
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01/YetiJointLeftArmJoint_02
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01/YetiJointLeftArmJoint_02/YetiJointLeftArmJoint_03
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01/YetiJointLeftArmJoint_02/YetiJointLeftArmJoint_03/transform2
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01/YetiJointRightArmJoint_02
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01/YetiJointRightArmJoint_02/YetiJointRightArmJoint_03
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointSpine_04
+        weight: 1
+      - path: YetiCtrl/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointSpine_04/YetiJointSpine_05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

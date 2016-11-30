@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: aa4bd00ee13cffc44824897bfbd28300
+timeCreated: 1480435759
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Flag
+    100004: Flag_01
+    100006: Flag_02
+    100008: Flag_03
+    100010: Flag_04
+    100012: FlagPole_01
+    100014: FlagPole_02
+    100016: Light_0001
+    100018: Light_00010
+    100020: Light_00011
+    100022: Light_00012
+    100024: Light_00013
+    100026: Light_00014
+    100028: Light_00015
+    100030: Light_00016
+    100032: Light_00017
+    100034: Light_00018
+    100036: Light_00019
+    100038: Light_0002
+    100040: Light_00020
+    100042: Light_00021
+    100044: Light_00022
+    100046: Light_00023
+    100048: Light_00024
+    100050: Light_00025
+    100052: Light_00026
+    100054: Light_00027
+    100056: Light_00028
+    100058: Light_00029
+    100060: Light_0003
+    100062: Light_00030
+    100064: Light_00031
+    100066: Light_00032
+    100068: Light_00033
+    100070: Light_00034
+    100072: Light_00035
+    100074: Light_00036
+    100076: Light_00037
+    100078: Light_00038
+    100080: Light_00039
+    100082: Light_0004
+    100084: Light_00040
+    100086: Light_00041
+    100088: Light_00042
+    100090: Light_00043
+    100092: Light_00044
+    100094: Light_00045
+    100096: Light_00046
+    100098: Light_00047
+    100100: Light_00048
+    100102: Light_00049
+    100104: Light_0005
+    100106: Light_00050
+    100108: Light_00051
+    100110: Light_00052
+    100112: Light_00053
+    100114: Light_00054
+    100116: Light_00055
+    100118: Light_00056
+    100120: Light_00057
+    100122: Light_00058
+    100124: Light_0006
+    100126: Light_00060
+    100128: Light_00061
+    100130: Light_00062
+    100132: Light_00063
+    100134: Light_00064
+    100136: Light_00065
+    100138: Light_00066
+    100140: Light_00067
+    100142: Light_00068
+    100144: Light_00069
+    100146: Light_0007
+    100148: Light_00070
+    100150: Light_00071
+    100152: Light_00072
+    100154: Light_00073
+    100156: Light_00074
+    100158: Light_00075
+    100160: Light_00076
+    100162: Light_00077
+    100164: Light_00078
+    100166: Light_00079
+    100168: Light_0008
+    100170: Light_00080
+    100172: Light_00081
+    100174: Light_00082
+    100176: Light_00083
+    100178: Light_00084
+    100180: Light_00085
+    100182: Light_00086
+    100184: Light_00087
+    100186: Light_00088
+    100188: Light_00089
+    100190: Light_0009
+    100192: Light_00090
+    100194: Light_00091
+    100196: Light_00092
+    100198: Light_00093
+    100200: LightBox
+    100202: LightRope
+    100204: LightSkeleton_001
+    100206: LightSkeleton_002
+    100208: LightSkeleton_003
+    100210: LightSkeleton_004
+    100212: LightSkeleton_005
+    100214: LightSkeleton_006
+    100216: LightSkeleton_007
+    100218: LightSkeleton_007 1
+    100220: LightSkeleton_009
+    100222: LightSkeleton_010
+    100224: LightSkeleton_011
+    100226: LightSkeleton_012
+    100228: LightSkeleton_013
+    100230: LightSkeleton_014
+    100232: LightSkeleton_015
+    100234: LightSkeleton_016
+    100236: LightSkeleton_017
+    100238: LightSkeleton_018
+    100240: LightSkeleton_019
+    100242: LightSkeleton_020
+    100244: LightSkeleton_021
+    100246: LightSkeleton_022
+    100248: LightSkeleton_023
+    100250: LightSkeleton_024
+    100252: LightSkeleton_025
+    100254: LightSkeleton_026
+    100256: LightSkeleton_027
+    100258: LightSkeleton_028
+    100260: LightSkeleton_029
+    100262: LightSkeleton_030
+    100264: LightSkeleton_031
+    100266: LightSkeleton_032
+    100268: LightSkeleton_033
+    100270: LightSkeleton_034
+    100272: LightSkeleton_035
+    100274: LightSkeleton_036
+    100276: LightSkeleton_037
+    100278: LightSkeleton_038
+    100280: LightSkeleton_039
+    100282: LightSkeleton_040
+    100284: LightSkeleton_041
+    100286: LightSkeleton_042
+    100288: LightSkeleton_043
+    100290: LightSkeleton_044
+    100292: LightSkeleton_045
+    100294: LightSkeleton_046
+    100296: LightSkeleton_047
+    100298: LightSkeleton_048
+    100300: LightSkeleton_049
+    100302: LightSkeleton_050
+    100304: LightSkeleton_051
+    100306: LightSkeleton_052
+    100308: LightSkeleton_053
+    100310: LightSkeleton_054
+    100312: LightSkeleton_057
+    100314: LightSkeleton_058
+    100316: LightSkeleton_059
+    100318: LightSkeleton_060
+    100320: LightSkeleton_061
+    100322: LightSkeleton_062
+    100324: ScaleCtrlYeti
+    100326: transform1
+    100328: Yeti_Model
+    100330: YetiJointLeftArmJoint_01
+    100332: YetiJointLeftArmJoint_02
+    100334: YetiJointLeftArmJoint_03
+    100336: YetiJointLeftClavical
+    100338: YetiJointLeftLegJoint_01
+    100340: YetiJointLeftLegJoint_02
+    100342: YetiJointLeftLegJoint_03
+    100344: YetiJointRightArmJoint_01
+    100346: YetiJointRightArmJoint_02
+    100348: YetiJointRightArmJoint_03
+    100350: YetiJointRightClavical
+    100352: YetiJointRightLegJoint_01
+    100354: YetiJointRightLegJoint_02
+    100356: YetiJointRightLegJoint_03
+    100358: YetiJointSpine_01
+    100360: YetiJointSpine_02
+    100362: YetiJointSpine_03
+    100364: YetiJointSpine_04
+    100366: YetiJointSpine_05
+    100368: YetiLights
+    100370: YetiRootJoint
+    400000: //RootNode
+    400002: Flag
+    400004: Flag_01
+    400006: Flag_02
+    400008: Flag_03
+    400010: Flag_04
+    400012: FlagPole_01
+    400014: FlagPole_02
+    400016: Light_0001
+    400018: Light_00010
+    400020: Light_00011
+    400022: Light_00012
+    400024: Light_00013
+    400026: Light_00014
+    400028: Light_00015
+    400030: Light_00016
+    400032: Light_00017
+    400034: Light_00018
+    400036: Light_00019
+    400038: Light_0002
+    400040: Light_00020
+    400042: Light_00021
+    400044: Light_00022
+    400046: Light_00023
+    400048: Light_00024
+    400050: Light_00025
+    400052: Light_00026
+    400054: Light_00027
+    400056: Light_00028
+    400058: Light_00029
+    400060: Light_0003
+    400062: Light_00030
+    400064: Light_00031
+    400066: Light_00032
+    400068: Light_00033
+    400070: Light_00034
+    400072: Light_00035
+    400074: Light_00036
+    400076: Light_00037
+    400078: Light_00038
+    400080: Light_00039
+    400082: Light_0004
+    400084: Light_00040
+    400086: Light_00041
+    400088: Light_00042
+    400090: Light_00043
+    400092: Light_00044
+    400094: Light_00045
+    400096: Light_00046
+    400098: Light_00047
+    400100: Light_00048
+    400102: Light_00049
+    400104: Light_0005
+    400106: Light_00050
+    400108: Light_00051
+    400110: Light_00052
+    400112: Light_00053
+    400114: Light_00054
+    400116: Light_00055
+    400118: Light_00056
+    400120: Light_00057
+    400122: Light_00058
+    400124: Light_0006
+    400126: Light_00060
+    400128: Light_00061
+    400130: Light_00062
+    400132: Light_00063
+    400134: Light_00064
+    400136: Light_00065
+    400138: Light_00066
+    400140: Light_00067
+    400142: Light_00068
+    400144: Light_00069
+    400146: Light_0007
+    400148: Light_00070
+    400150: Light_00071
+    400152: Light_00072
+    400154: Light_00073
+    400156: Light_00074
+    400158: Light_00075
+    400160: Light_00076
+    400162: Light_00077
+    400164: Light_00078
+    400166: Light_00079
+    400168: Light_0008
+    400170: Light_00080
+    400172: Light_00081
+    400174: Light_00082
+    400176: Light_00083
+    400178: Light_00084
+    400180: Light_00085
+    400182: Light_00086
+    400184: Light_00087
+    400186: Light_00088
+    400188: Light_00089
+    400190: Light_0009
+    400192: Light_00090
+    400194: Light_00091
+    400196: Light_00092
+    400198: Light_00093
+    400200: LightBox
+    400202: LightRope
+    400204: LightSkeleton_001
+    400206: LightSkeleton_002
+    400208: LightSkeleton_003
+    400210: LightSkeleton_004
+    400212: LightSkeleton_005
+    400214: LightSkeleton_006
+    400216: LightSkeleton_007
+    400218: LightSkeleton_007 1
+    400220: LightSkeleton_009
+    400222: LightSkeleton_010
+    400224: LightSkeleton_011
+    400226: LightSkeleton_012
+    400228: LightSkeleton_013
+    400230: LightSkeleton_014
+    400232: LightSkeleton_015
+    400234: LightSkeleton_016
+    400236: LightSkeleton_017
+    400238: LightSkeleton_018
+    400240: LightSkeleton_019
+    400242: LightSkeleton_020
+    400244: LightSkeleton_021
+    400246: LightSkeleton_022
+    400248: LightSkeleton_023
+    400250: LightSkeleton_024
+    400252: LightSkeleton_025
+    400254: LightSkeleton_026
+    400256: LightSkeleton_027
+    400258: LightSkeleton_028
+    400260: LightSkeleton_029
+    400262: LightSkeleton_030
+    400264: LightSkeleton_031
+    400266: LightSkeleton_032
+    400268: LightSkeleton_033
+    400270: LightSkeleton_034
+    400272: LightSkeleton_035
+    400274: LightSkeleton_036
+    400276: LightSkeleton_037
+    400278: LightSkeleton_038
+    400280: LightSkeleton_039
+    400282: LightSkeleton_040
+    400284: LightSkeleton_041
+    400286: LightSkeleton_042
+    400288: LightSkeleton_043
+    400290: LightSkeleton_044
+    400292: LightSkeleton_045
+    400294: LightSkeleton_046
+    400296: LightSkeleton_047
+    400298: LightSkeleton_048
+    400300: LightSkeleton_049
+    400302: LightSkeleton_050
+    400304: LightSkeleton_051
+    400306: LightSkeleton_052
+    400308: LightSkeleton_053
+    400310: LightSkeleton_054
+    400312: LightSkeleton_057
+    400314: LightSkeleton_058
+    400316: LightSkeleton_059
+    400318: LightSkeleton_060
+    400320: LightSkeleton_061
+    400322: LightSkeleton_062
+    400324: ScaleCtrlYeti
+    400326: transform1
+    400328: Yeti_Model
+    400330: YetiJointLeftArmJoint_01
+    400332: YetiJointLeftArmJoint_02
+    400334: YetiJointLeftArmJoint_03
+    400336: YetiJointLeftClavical
+    400338: YetiJointLeftLegJoint_01
+    400340: YetiJointLeftLegJoint_02
+    400342: YetiJointLeftLegJoint_03
+    400344: YetiJointRightArmJoint_01
+    400346: YetiJointRightArmJoint_02
+    400348: YetiJointRightArmJoint_03
+    400350: YetiJointRightClavical
+    400352: YetiJointRightLegJoint_01
+    400354: YetiJointRightLegJoint_02
+    400356: YetiJointRightLegJoint_03
+    400358: YetiJointSpine_01
+    400360: YetiJointSpine_02
+    400362: YetiJointSpine_03
+    400364: YetiJointSpine_04
+    400366: YetiJointSpine_05
+    400368: YetiLights
+    400370: YetiRootJoint
+    4300000: Yeti_Model
+    4300002: LightRope
+    4300004: Light_0001
+    4300006: Light_0002
+    4300008: Light_0003
+    4300010: Light_0004
+    4300012: Light_0005
+    4300014: Light_0006
+    4300016: Light_0007
+    4300018: Light_0008
+    4300020: Light_0009
+    4300022: Light_00010
+    4300024: Light_00011
+    4300026: Light_00012
+    4300028: Light_00013
+    4300030: Light_00014
+    4300032: Light_00015
+    4300034: Light_00016
+    4300036: Light_00017
+    4300038: Light_00018
+    4300040: Light_00019
+    4300042: Light_00020
+    4300044: Light_00021
+    4300046: Light_00022
+    4300048: Light_00023
+    4300050: Light_00024
+    4300052: Light_00025
+    4300054: Light_00026
+    4300056: Light_00027
+    4300058: Light_00028
+    4300060: Light_00029
+    4300062: Light_00030
+    4300064: Light_00031
+    4300066: Light_00032
+    4300068: Light_00033
+    4300070: Light_00034
+    4300072: Light_00035
+    4300074: Light_00036
+    4300076: Light_00037
+    4300078: Light_00038
+    4300080: Light_00039
+    4300082: Light_00040
+    4300084: Light_00041
+    4300086: Light_00042
+    4300088: Light_00043
+    4300090: Light_00044
+    4300092: Light_00045
+    4300094: Light_00046
+    4300096: Light_00047
+    4300098: Light_00048
+    4300100: Light_00049
+    4300102: Light_00050
+    4300104: Light_00051
+    4300106: Light_00052
+    4300108: Light_00053
+    4300110: Light_00054
+    4300112: Light_00055
+    4300114: Light_00056
+    4300116: Light_00057
+    4300118: Light_00058
+    4300120: Light_00060
+    4300122: Light_00061
+    4300124: Light_00062
+    4300126: Light_00063
+    4300128: Light_00064
+    4300130: Light_00065
+    4300132: Light_00066
+    4300134: Light_00067
+    4300136: Light_00068
+    4300138: Light_00069
+    4300140: Light_00070
+    4300142: Light_00071
+    4300144: Light_00072
+    4300146: Light_00073
+    4300148: Light_00074
+    4300150: Light_00075
+    4300152: Light_00076
+    4300154: Light_00077
+    4300156: Light_00078
+    4300158: Light_00079
+    4300160: Light_00080
+    4300162: Light_00081
+    4300164: Light_00082
+    4300166: Light_00083
+    4300168: Light_00084
+    4300170: Light_00085
+    4300172: Light_00086
+    4300174: Light_00087
+    4300176: Light_00088
+    4300178: Light_00089
+    4300180: Light_00090
+    4300182: Light_00091
+    4300184: Light_00092
+    4300186: Light_00093
+    4300188: LightBox
+    4300190: Flag
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Flag
+    13700002: Light_0001
+    13700004: Light_00010
+    13700006: Light_00011
+    13700008: Light_00012
+    13700010: Light_00013
+    13700012: Light_00014
+    13700014: Light_00015
+    13700016: Light_00016
+    13700018: Light_00017
+    13700020: Light_00018
+    13700022: Light_00019
+    13700024: Light_0002
+    13700026: Light_00020
+    13700028: Light_00021
+    13700030: Light_00022
+    13700032: Light_00023
+    13700034: Light_00024
+    13700036: Light_00025
+    13700038: Light_00026
+    13700040: Light_00027
+    13700042: Light_00028
+    13700044: Light_00029
+    13700046: Light_0003
+    13700048: Light_00030
+    13700050: Light_00031
+    13700052: Light_00032
+    13700054: Light_00033
+    13700056: Light_00034
+    13700058: Light_00035
+    13700060: Light_00036
+    13700062: Light_00037
+    13700064: Light_00038
+    13700066: Light_00039
+    13700068: Light_0004
+    13700070: Light_00040
+    13700072: Light_00041
+    13700074: Light_00042
+    13700076: Light_00043
+    13700078: Light_00044
+    13700080: Light_00045
+    13700082: Light_00046
+    13700084: Light_00047
+    13700086: Light_00048
+    13700088: Light_00049
+    13700090: Light_0005
+    13700092: Light_00050
+    13700094: Light_00051
+    13700096: Light_00052
+    13700098: Light_00053
+    13700100: Light_00054
+    13700102: Light_00055
+    13700104: Light_00056
+    13700106: Light_00057
+    13700108: Light_00058
+    13700110: Light_0006
+    13700112: Light_00060
+    13700114: Light_00061
+    13700116: Light_00062
+    13700118: Light_00063
+    13700120: Light_00064
+    13700122: Light_00065
+    13700124: Light_00066
+    13700126: Light_00067
+    13700128: Light_00068
+    13700130: Light_00069
+    13700132: Light_0007
+    13700134: Light_00070
+    13700136: Light_00071
+    13700138: Light_00072
+    13700140: Light_00073
+    13700142: Light_00074
+    13700144: Light_00075
+    13700146: Light_00076
+    13700148: Light_00077
+    13700150: Light_00078
+    13700152: Light_00079
+    13700154: Light_0008
+    13700156: Light_00080
+    13700158: Light_00081
+    13700160: Light_00082
+    13700162: Light_00083
+    13700164: Light_00084
+    13700166: Light_00085
+    13700168: Light_00086
+    13700170: Light_00087
+    13700172: Light_00088
+    13700174: Light_00089
+    13700176: Light_0009
+    13700178: Light_00090
+    13700180: Light_00091
+    13700182: Light_00092
+    13700184: Light_00093
+    13700186: LightBox
+    13700188: LightRope
+    13700190: Yeti_Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Flag
+        weight: 1
+      - path: FlagPole_01
+        weight: 1
+      - path: FlagPole_01/FlagPole_02
+        weight: 1
+      - path: FlagPole_01/FlagPole_02/Flag_01
+        weight: 1
+      - path: FlagPole_01/FlagPole_02/Flag_01/Flag_02
+        weight: 1
+      - path: FlagPole_01/FlagPole_02/Flag_01/Flag_02/Flag_03
+        weight: 1
+      - path: FlagPole_01/FlagPole_02/Flag_01/Flag_02/Flag_03/Flag_04
+        weight: 1
+      - path: LightSkeleton_001
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057/LightSkeleton_058
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057/LightSkeleton_058/LightSkeleton_059
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057/LightSkeleton_058/LightSkeleton_059/LightSkeleton_060
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057/LightSkeleton_058/LightSkeleton_059/LightSkeleton_060/LightSkeleton_061
+        weight: 1
+      - path: LightSkeleton_001/LightSkeleton_002/LightSkeleton_003/LightSkeleton_004/LightSkeleton_005/LightSkeleton_006/LightSkeleton_007/LightSkeleton_007
+          1/LightSkeleton_009/LightSkeleton_010/LightSkeleton_011/LightSkeleton_012/LightSkeleton_013/LightSkeleton_014/LightSkeleton_015/LightSkeleton_016/LightSkeleton_017/LightSkeleton_018/LightSkeleton_019/LightSkeleton_020/LightSkeleton_021/LightSkeleton_022/LightSkeleton_023/LightSkeleton_024/LightSkeleton_025/LightSkeleton_026/LightSkeleton_027/LightSkeleton_028/LightSkeleton_029/LightSkeleton_030/LightSkeleton_031/LightSkeleton_032/LightSkeleton_033/LightSkeleton_034/LightSkeleton_035/LightSkeleton_036/LightSkeleton_037/LightSkeleton_038/LightSkeleton_039/LightSkeleton_040/LightSkeleton_041/LightSkeleton_042/LightSkeleton_043/LightSkeleton_044/LightSkeleton_045/LightSkeleton_046/LightSkeleton_047/LightSkeleton_048/LightSkeleton_049/LightSkeleton_050/LightSkeleton_051/LightSkeleton_052/LightSkeleton_053/LightSkeleton_054/LightSkeleton_057/LightSkeleton_058/LightSkeleton_059/LightSkeleton_060/LightSkeleton_061/LightSkeleton_062
+        weight: 1
+      - path: ScaleCtrlYeti
+        weight: 1
+      - path: ScaleCtrlYeti/transform1
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointLeftLegJoint_01
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointLeftLegJoint_01/YetiJointLeftLegJoint_02
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointLeftLegJoint_01/YetiJointLeftLegJoint_02/YetiJointLeftLegJoint_03
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointRightLegJoint_01
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointRightLegJoint_01/YetiJointRightLegJoint_02
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointRightLegJoint_01/YetiJointRightLegJoint_02/YetiJointRightLegJoint_03
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01/YetiJointLeftArmJoint_02
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointLeftClavical/YetiJointLeftArmJoint_01/YetiJointLeftArmJoint_02/YetiJointLeftArmJoint_03
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01/YetiJointRightArmJoint_02
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointRightClavical/YetiJointRightArmJoint_01/YetiJointRightArmJoint_02/YetiJointRightArmJoint_03
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointSpine_04
+        weight: 1
+      - path: ScaleCtrlYeti/transform1/YetiRootJoint/YetiJointSpine_01/YetiJointSpine_02/YetiJointSpine_03/YetiJointSpine_04/YetiJointSpine_05
+        weight: 1
+      - path: Yeti_Model
+        weight: 1
+      - path: YetiLights
+        weight: 1
+      - path: YetiLights/LightBox
+        weight: 1
+      - path: YetiLights/LightRope
+        weight: 1
+      - path: YetiLights/LightRope/Light_0001
+        weight: 1
+      - path: YetiLights/LightRope/Light_0002
+        weight: 1
+      - path: YetiLights/LightRope/Light_0003
+        weight: 1
+      - path: YetiLights/LightRope/Light_0004
+        weight: 1
+      - path: YetiLights/LightRope/Light_0005
+        weight: 1
+      - path: YetiLights/LightRope/Light_0006
+        weight: 1
+      - path: YetiLights/LightRope/Light_0007
+        weight: 1
+      - path: YetiLights/LightRope/Light_0008
+        weight: 1
+      - path: YetiLights/LightRope/Light_0009
+        weight: 1
+      - path: YetiLights/LightRope/Light_00010
+        weight: 1
+      - path: YetiLights/LightRope/Light_00011
+        weight: 1
+      - path: YetiLights/LightRope/Light_00012
+        weight: 1
+      - path: YetiLights/LightRope/Light_00013
+        weight: 1
+      - path: YetiLights/LightRope/Light_00014
+        weight: 1
+      - path: YetiLights/LightRope/Light_00015
+        weight: 1
+      - path: YetiLights/LightRope/Light_00016
+        weight: 1
+      - path: YetiLights/LightRope/Light_00017
+        weight: 1
+      - path: YetiLights/LightRope/Light_00018
+        weight: 1
+      - path: YetiLights/LightRope/Light_00019
+        weight: 1
+      - path: YetiLights/LightRope/Light_00020
+        weight: 1
+      - path: YetiLights/LightRope/Light_00021
+        weight: 1
+      - path: YetiLights/LightRope/Light_00022
+        weight: 1
+      - path: YetiLights/LightRope/Light_00023
+        weight: 1
+      - path: YetiLights/LightRope/Light_00024
+        weight: 1
+      - path: YetiLights/LightRope/Light_00025
+        weight: 1
+      - path: YetiLights/LightRope/Light_00026
+        weight: 1
+      - path: YetiLights/LightRope/Light_00027
+        weight: 1
+      - path: YetiLights/LightRope/Light_00028
+        weight: 1
+      - path: YetiLights/LightRope/Light_00029
+        weight: 1
+      - path: YetiLights/LightRope/Light_00030
+        weight: 1
+      - path: YetiLights/LightRope/Light_00031
+        weight: 1
+      - path: YetiLights/LightRope/Light_00032
+        weight: 1
+      - path: YetiLights/LightRope/Light_00033
+        weight: 1
+      - path: YetiLights/LightRope/Light_00034
+        weight: 1
+      - path: YetiLights/LightRope/Light_00035
+        weight: 1
+      - path: YetiLights/LightRope/Light_00036
+        weight: 1
+      - path: YetiLights/LightRope/Light_00037
+        weight: 1
+      - path: YetiLights/LightRope/Light_00038
+        weight: 1
+      - path: YetiLights/LightRope/Light_00039
+        weight: 1
+      - path: YetiLights/LightRope/Light_00040
+        weight: 1
+      - path: YetiLights/LightRope/Light_00041
+        weight: 1
+      - path: YetiLights/LightRope/Light_00042
+        weight: 1
+      - path: YetiLights/LightRope/Light_00043
+        weight: 1
+      - path: YetiLights/LightRope/Light_00044
+        weight: 1
+      - path: YetiLights/LightRope/Light_00045
+        weight: 1
+      - path: YetiLights/LightRope/Light_00046
+        weight: 1
+      - path: YetiLights/LightRope/Light_00047
+        weight: 1
+      - path: YetiLights/LightRope/Light_00048
+        weight: 1
+      - path: YetiLights/LightRope/Light_00049
+        weight: 1
+      - path: YetiLights/LightRope/Light_00050
+        weight: 1
+      - path: YetiLights/LightRope/Light_00051
+        weight: 1
+      - path: YetiLights/LightRope/Light_00052
+        weight: 1
+      - path: YetiLights/LightRope/Light_00053
+        weight: 1
+      - path: YetiLights/LightRope/Light_00054
+        weight: 1
+      - path: YetiLights/LightRope/Light_00055
+        weight: 1
+      - path: YetiLights/LightRope/Light_00056
+        weight: 1
+      - path: YetiLights/LightRope/Light_00057
+        weight: 1
+      - path: YetiLights/LightRope/Light_00058
+        weight: 1
+      - path: YetiLights/LightRope/Light_00060
+        weight: 1
+      - path: YetiLights/LightRope/Light_00061
+        weight: 1
+      - path: YetiLights/LightRope/Light_00062
+        weight: 1
+      - path: YetiLights/LightRope/Light_00063
+        weight: 1
+      - path: YetiLights/LightRope/Light_00064
+        weight: 1
+      - path: YetiLights/LightRope/Light_00065
+        weight: 1
+      - path: YetiLights/LightRope/Light_00066
+        weight: 1
+      - path: YetiLights/LightRope/Light_00067
+        weight: 1
+      - path: YetiLights/LightRope/Light_00068
+        weight: 1
+      - path: YetiLights/LightRope/Light_00069
+        weight: 1
+      - path: YetiLights/LightRope/Light_00070
+        weight: 1
+      - path: YetiLights/LightRope/Light_00071
+        weight: 1
+      - path: YetiLights/LightRope/Light_00072
+        weight: 1
+      - path: YetiLights/LightRope/Light_00073
+        weight: 1
+      - path: YetiLights/LightRope/Light_00074
+        weight: 1
+      - path: YetiLights/LightRope/Light_00075
+        weight: 1
+      - path: YetiLights/LightRope/Light_00076
+        weight: 1
+      - path: YetiLights/LightRope/Light_00077
+        weight: 1
+      - path: YetiLights/LightRope/Light_00078
+        weight: 1
+      - path: YetiLights/LightRope/Light_00079
+        weight: 1
+      - path: YetiLights/LightRope/Light_00080
+        weight: 1
+      - path: YetiLights/LightRope/Light_00081
+        weight: 1
+      - path: YetiLights/LightRope/Light_00082
+        weight: 1
+      - path: YetiLights/LightRope/Light_00083
+        weight: 1
+      - path: YetiLights/LightRope/Light_00084
+        weight: 1
+      - path: YetiLights/LightRope/Light_00085
+        weight: 1
+      - path: YetiLights/LightRope/Light_00086
+        weight: 1
+      - path: YetiLights/LightRope/Light_00087
+        weight: 1
+      - path: YetiLights/LightRope/Light_00088
+        weight: 1
+      - path: YetiLights/LightRope/Light_00089
+        weight: 1
+      - path: YetiLights/LightRope/Light_00090
+        weight: 1
+      - path: YetiLights/LightRope/Light_00091
+        weight: 1
+      - path: YetiLights/LightRope/Light_00092
+        weight: 1
+      - path: YetiLights/LightRope/Light_00093
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
