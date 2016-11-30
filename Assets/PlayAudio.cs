@@ -23,4 +23,9 @@ public class PlayAudio : MonoBehaviour
     {
         source.Stop();
     }
+
+    public void SetPitch(float newPitch)
+    {
+        source.pitch = newPitch;
+    }
 }
