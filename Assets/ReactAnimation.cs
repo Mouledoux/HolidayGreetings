@@ -3,10 +3,15 @@ using System.Collections;
 
 public class ReactAnimation : MonoBehaviour
 {
-    Animation anim;
+    Animator anim;
+
+    void Start()
+    {
+        anim = gameObject.GetComponent<Animator>();
+    }
 
     void OnTriggerEnter()
     {
-        anim.Play();
+        anim.SetTrigger("Look");
     }
 }

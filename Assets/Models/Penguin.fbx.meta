@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: ea89928e542cce4478af578441fd4f62
-timeCreated: 1480440091
+guid: 7ba1bccd43c4f2c4da943402df7b6988
+timeCreated: 1480525631
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Penguin_001
+    100000: Penguin_001
+    100002: //RootNode
     100004: PenguinGroup_001
     100006: PenguinJointHead
     100008: PenguinJointLeftArm1
@@ -27,8 +27,8 @@ ModelImporter:
     100038: PenguinJointTail2
     100040: PenguinJointTail3
     100042: PenguinScaleCTRL
-    400000: //RootNode
-    400002: Penguin_001
+    400000: Penguin_001
+    400002: //RootNode
     400004: PenguinGroup_001
     400006: PenguinJointHead
     400008: PenguinJointLeftArm1
@@ -49,11 +49,10 @@ ModelImporter:
     400038: PenguinJointTail2
     400040: PenguinJointTail3
     400042: PenguinScaleCTRL
-    2300000: Penguin_001
-    3300000: Penguin_001
     4300000: Penguin_001
     7400000: Take 001
     9500000: //RootNode
+    13700000: Penguin_001
   materials:
     importMaterials: 1
     materialName: 0
@@ -74,7 +73,79 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Penguin_001
+        weight: 1
+      - path: PenguinScaleCTRL
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointLeftLeg1
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointLeftLeg1/PenguinJointLeftLeg2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointRightleg1
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointRightleg1/PenguinJointRightLeg2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1/PenguinJointLeftArm2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointLeftArm1/PenguinJointLeftArm2/PenguinJointLeftArm3
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointNeck
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointNeck/PenguinJointHead
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1/PenguinJointRightArm2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointSpine2/PenguinJointSpine3/PenguinJointRightArm1/PenguinJointRightArm2/PenguinJointRightArm3
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointTail1
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointTail1/PenguinJointTail2
+        weight: 1
+      - path: PenguinScaleCTRL/PenguinGroup_001/PenguinJointRoot/PenguinJointTail1/PenguinJointTail2/PenguinJointTail3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
     isReadable: 1
   meshes:
     lODScreenPercentages: []
