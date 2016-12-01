@@ -46,6 +46,9 @@ public class SloMo : MonoBehaviour
         {
             if (timeScale > targetScale)
                 timeScale -= 0.01f;
+            if (timeScale < targetScale)
+                timeScale = targetScale;
+
             yield return null;
         }
 
