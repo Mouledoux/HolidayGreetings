@@ -27,5 +27,6 @@ public class PlayAudio : MonoBehaviour
     public void SetPitch(float newPitch)
     {
         source.pitch = newPitch;
+        print(source.pitch);
     }
 }
