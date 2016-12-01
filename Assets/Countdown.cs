@@ -8,12 +8,18 @@ public class Countdown : MonoBehaviour
     Text text;
     RectTransform rect;
 
+    [SerializeField] AudioClip numBeep;
+    [SerializeField] AudioClip goBeep;
+
+    AudioSource audio;
+
     public UnityEvent loadedAction;
 
     void Start()
     {
         text = gameObject.GetComponent<Text>();
         rect = gameObject.GetComponent<RectTransform>();
+        audio = gameObject.GetComponent<AudioSource>();
     }
 
     [ContextMenu("Do the thing")]
@@ -26,6 +32,10 @@ public class Countdown : MonoBehaviour
     {
         float timer = 4;
 
+        int trackNum = 0;
+        bool playGo = false;
+        bool sameNum = false;
+
         while(timer > 0)
         {
             timer -= Time.deltaTime;
@@ -33,9 +43,26 @@ public class Countdown : MonoBehaviour
             rect.localScale = new Vector3(timer % 1 * 5, timer % 1 * 5, 1);
 
             if (timer > 1)
+            {
                 text.text = ((int)timer).ToString();
+                sameNum = (trackNum == (int)timer);
+                if (!sameNum)
+                {
+                    audio.PlayOneShot(numBeep);
+                }
+
+                trackNum = (int)timer;
+            }
             else
+            {
                 text.text = "GO!";
+                if (!playGo)
+                {
+                    playGo = true;
+                    audio.PlayOneShot(goBeep);
+                }
+            }
+            
             yield return null;
         }
 
