@@ -1,12 +1,24 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class SloMo : MonoBehaviour
 {
     [Range(0, 5)]
-    public float timeScale = 1;
+    public float targetSpeed;
 
-    //public AudioSource aud;
+    float timeScale = 1;
+
+    public List<AudioSource> allAudio;
+
+    void Start()
+    {
+
+        foreach(AudioSource a in FindObjectsOfType<AudioSource>())
+        {
+            allAudio.Add(a);
+        }
+    }
 
     bool timeSlowed = false;
 	void Update ()
@@ -14,11 +26,15 @@ public class SloMo : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0) && !timeSlowed)
         {
             timeSlowed = true;
-            StartCoroutine(BulletTime(0.15f));
+            StartCoroutine(BulletTime(targetSpeed));
         }
 
-            Time.timeScale = timeScale; // Ze Worrrldo
-        //aud.pitch = timeScale;  // We have to make the slow affect the audio, and it works well
+        Time.timeScale = timeScale; // Ze Worrrldo
+
+        foreach(AudioSource a in allAudio)
+        {
+            a.pitch = timeScale;
+        }
 	}
 
     
