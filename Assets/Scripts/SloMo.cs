@@ -28,6 +28,11 @@ public class SloMo : MonoBehaviour
             timeSlowed = true;
             StartCoroutine(BulletTime(targetSpeed));
         }
+        else
+        {
+            StopCoroutine("BulletTime");
+            StartCoroutine(BulletTime(targetSpeed));
+        }
 
         Time.timeScale = timeScale; // Ze Worrrldo
 
