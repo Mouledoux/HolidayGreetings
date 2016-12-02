@@ -28,7 +28,7 @@ public class RaySelect : MonoBehaviour
         loader = gameObject.GetComponent<RadialLoad>();     // Store Loader
     }
 
-    void FixedUpdate()   // Called every Physics step
+    void Update()   // Called every Physics step
     {
         if (Physics.Raycast(transform.position, transform.forward, out rayCursor, 10000, mask))  // TeleportNode layer
         {
