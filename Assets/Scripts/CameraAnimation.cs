@@ -3,22 +3,16 @@ using System.Collections;
 
 public class CameraAnimation : MonoBehaviour
 {
-    Animation anim;
-    public AnimationClip vr;
-    public AnimationClip full;
-
+    Animator anim;
     void Start()
     {
-        anim = gameObject.GetComponent<Animation>();
+        anim = GetComponent<Animator>();
     }
 
-    public void PlayVR()
+    public void PlayMenuCamera(bool vr)
     {
-        anim.Play();   
-    }
+        anim.enabled = true;
 
-    public void PlayFull()
-    {
-        anim.Play();
+        anim.SetBool("VR", vr);
     }
 }
