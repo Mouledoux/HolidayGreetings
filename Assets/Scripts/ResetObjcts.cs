@@ -10,6 +10,8 @@ public class ResetObjcts : MonoBehaviour
     public void Reset()
     {
         Sled.transform.localPosition = Vector3.zero;
+        Sled.transform.localRotation = Quaternion.identity;
+
         SnowBank.SetActive(true);
         Sign.GetComponent<Collider>().enabled = true;
     }
