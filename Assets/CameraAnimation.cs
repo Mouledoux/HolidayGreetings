@@ -14,12 +14,11 @@ public class CameraAnimation : MonoBehaviour
 
     public void PlayVR()
     {
-
-        
+        anim.Play();   
     }
 
     public void PlayFull()
     {
-        anim.Play(full.name);
+        anim.Play();
     }
 }
