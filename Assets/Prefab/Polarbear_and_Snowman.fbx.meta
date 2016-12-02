@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 6c6794b2e32d5bf4682735b066060768
+timeCreated: 1479915969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bear_001
+    100002: Character
+    100004: Chest_con_
+    100006: Ear_1_con_
+    100008: Ear_2_con_
+    100010: FK_Neck_null
+    100012: Head_con_
+    100014: Head_null
+    100016: L_Back_Leg_con_
+    100018: L_Back_Leg_null
+    100020: L_Back_Leg_pole
+    100022: L_Back_Leg_pole_2
+    100024: L_Ear_00_jnt
+    100026: L_Ear_01_jnt
+    100028: L_Ear_02_jnt
+    100030: L_Ear_03_jnt
+    100032: L_Ear_null
+    100034: L_Femur_00_jnt
+    100036: L_Front_Leg_con_
+    100038: L_Front_Leg_null
+    100040: L_Front_leg_pole
+    100042: L_Front_leg_pole_2
+    100044: L_Humerus_01_jnt
+    100046: L_Metacarpua_03_jnt
+    100048: L_Metacarpua_goal
+    100050: L_Metatarsus_02_jnt
+    100052: L_Metatarsus_goal
+    100054: L_Paw_04_jnt
+    100056: L_Paw_goal
+    100058: L_Paw_Tip_05_jnt
+    100060: L_Paw_Tip_goal
+    100062: L_Phalanges_03_jnt
+    100064: L_Phalanges_goal
+    100066: L_Phanges_04_jnt
+    100068: L_Phanges_goal
+    100070: L_Scapula_00_jnt
+    100072: L_Tibia_Fibula_01_jnt
+    100074: L_Unla_Radius_02_jnt
+    100076: Master_con_
+    100078: Neck_Base_con_
+    100080: Neck_FK_00_jnt
+    100082: Neck_FK_01_jnt
+    100084: Neck_FK_02_jnt
+    100086: Neck_FK_end_jnt
+    100088: Neck_Midd_con_
+    100090: Neck_Top_con_
+    100092: //RootNode
+    100094: PolarBear_Walking
+    100096: Quadruped_rig
+    100098: R_Back_Leg_con_
+    100100: R_Back_Leg_null
+    100102: R_Back_Leg_pole
+    100104: R_Back_Leg_pole_2
+    100106: R_Femur_00_jnt
+    100108: R_Front_Leg_con_
+    100110: R_Front_Leg_null
+    100112: R_Front_leg_pole
+    100114: R_Front_leg_pole_2
+    100116: R_Humerus_01_jnt
+    100118: R_Metacarpua_03_jnt
+    100120: R_Metacarpua_goal
+    100122: R_Metatarsus_02_jnt
+    100124: R_Metatarsus_goal
+    100126: R_Paw_04_jnt
+    100128: R_Paw_goal
+    100130: R_Paw_Tip_05_jnt
+    100132: R_Paw_Tip_goal
+    100134: R_Phalanges_03_jnt
+    100136: R_Phalanges_goal
+    100138: R_Phanges_04_jnt
+    100140: R_Phanges_goal
+    100142: R_Scapula_00_jnt
+    100144: R_Tibia_Fibula_01_jnt
+    100146: R_Unla_Radius_02_jnt
+    100148: Root_con_
+    100150: Root_jnt
+    100152: Skull_00_jnt
+    100154: Skull_01_jnt
+    100156: Snowman
+    100158: SnowmanBase
+    100160: SnowmanBend_1
+    100162: SnowmanBend_2
+    100164: SnowmanGroup
+    100166: SnowmanMove
+    100168: SnowmanTop
+    100170: Spine_00_jnt
+    100172: Spine_01_jnt
+    100174: Spine_02_jnt
+    100176: Spine_03_jnt
+    100178: Spine_04_jnt
+    100180: Spine_05_jnt
+    100182: Spine_06_jnt
+    100184: Spine_07_jnt
+    100186: Spine_08_jnt
+    100188: Spine_null
+    400000: Bear_001
+    400002: Character
+    400004: Chest_con_
+    400006: Ear_1_con_
+    400008: Ear_2_con_
+    400010: FK_Neck_null
+    400012: Head_con_
+    400014: Head_null
+    400016: L_Back_Leg_con_
+    400018: L_Back_Leg_null
+    400020: L_Back_Leg_pole
+    400022: L_Back_Leg_pole_2
+    400024: L_Ear_00_jnt
+    400026: L_Ear_01_jnt
+    400028: L_Ear_02_jnt
+    400030: L_Ear_03_jnt
+    400032: L_Ear_null
+    400034: L_Femur_00_jnt
+    400036: L_Front_Leg_con_
+    400038: L_Front_Leg_null
+    400040: L_Front_leg_pole
+    400042: L_Front_leg_pole_2
+    400044: L_Humerus_01_jnt
+    400046: L_Metacarpua_03_jnt
+    400048: L_Metacarpua_goal
+    400050: L_Metatarsus_02_jnt
+    400052: L_Metatarsus_goal
+    400054: L_Paw_04_jnt
+    400056: L_Paw_goal
+    400058: L_Paw_Tip_05_jnt
+    400060: L_Paw_Tip_goal
+    400062: L_Phalanges_03_jnt
+    400064: L_Phalanges_goal
+    400066: L_Phanges_04_jnt
+    400068: L_Phanges_goal
+    400070: L_Scapula_00_jnt
+    400072: L_Tibia_Fibula_01_jnt
+    400074: L_Unla_Radius_02_jnt
+    400076: Master_con_
+    400078: Neck_Base_con_
+    400080: Neck_FK_00_jnt
+    400082: Neck_FK_01_jnt
+    400084: Neck_FK_02_jnt
+    400086: Neck_FK_end_jnt
+    400088: Neck_Midd_con_
+    400090: Neck_Top_con_
+    400092: //RootNode
+    400094: PolarBear_Walking
+    400096: Quadruped_rig
+    400098: R_Back_Leg_con_
+    400100: R_Back_Leg_null
+    400102: R_Back_Leg_pole
+    400104: R_Back_Leg_pole_2
+    400106: R_Femur_00_jnt
+    400108: R_Front_Leg_con_
+    400110: R_Front_Leg_null
+    400112: R_Front_leg_pole
+    400114: R_Front_leg_pole_2
+    400116: R_Humerus_01_jnt
+    400118: R_Metacarpua_03_jnt
+    400120: R_Metacarpua_goal
+    400122: R_Metatarsus_02_jnt
+    400124: R_Metatarsus_goal
+    400126: R_Paw_04_jnt
+    400128: R_Paw_goal
+    400130: R_Paw_Tip_05_jnt
+    400132: R_Paw_Tip_goal
+    400134: R_Phalanges_03_jnt
+    400136: R_Phalanges_goal
+    400138: R_Phanges_04_jnt
+    400140: R_Phanges_goal
+    400142: R_Scapula_00_jnt
+    400144: R_Tibia_Fibula_01_jnt
+    400146: R_Unla_Radius_02_jnt
+    400148: Root_con_
+    400150: Root_jnt
+    400152: Skull_00_jnt
+    400154: Skull_01_jnt
+    400156: Snowman
+    400158: SnowmanBase
+    400160: SnowmanBend_1
+    400162: SnowmanBend_2
+    400164: SnowmanGroup
+    400166: SnowmanMove
+    400168: SnowmanTop
+    400170: Spine_00_jnt
+    400172: Spine_01_jnt
+    400174: Spine_02_jnt
+    400176: Spine_03_jnt
+    400178: Spine_04_jnt
+    400180: Spine_05_jnt
+    400182: Spine_06_jnt
+    400184: Spine_07_jnt
+    400186: Spine_08_jnt
+    400188: Spine_null
+    4300000: Bear_001
+    4300002: Snowman
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bear_001
+    13700002: Snowman
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: PolarBear_Walking
+        weight: 1
+      - path: PolarBear_Walking/Bear_001
+        weight: 1
+      - path: PolarBear_Walking/Character
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Back_Leg_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal/L_Phalanges_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Back_Leg_con_/L_Paw_goal/L_Phalanges_goal/L_Metatarsus_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Front_Leg_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal/L_Phanges_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/L_Front_Leg_con_/L_Paw_Tip_goal/L_Phanges_goal/L_Metacarpua_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Back_Leg_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal/R_Phalanges_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Back_Leg_con_/R_Paw_goal/R_Phalanges_goal/R_Metatarsus_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Front_Leg_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal/R_Phanges_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/R_Front_Leg_con_/R_Paw_Tip_goal/R_Phanges_goal/R_Metacarpua_goal
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_/Head_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_/Head_con_/Ear_1_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Master_con_/Root_con_/Chest_con_/Neck_Base_con_/Neck_Midd_con_/Neck_Top_con_/Head_con_/Ear_1_con_/Ear_2_con_
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Back_Leg_pole/L_Back_Leg_pole_2
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt/L_Phalanges_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/L_Back_Leg_null/L_Femur_00_jnt/L_Tibia_Fibula_01_jnt/L_Metatarsus_02_jnt/L_Phalanges_03_jnt/L_Paw_04_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Back_Leg_pole/R_Back_Leg_pole_2
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt/R_Phalanges_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/R_Back_Leg_null/R_Femur_00_jnt/R_Tibia_Fibula_01_jnt/R_Metatarsus_02_jnt/R_Phalanges_03_jnt/R_Paw_04_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/L_Ear_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/L_Ear_null/L_Ear_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/L_Ear_null/L_Ear_00_jnt/L_Ear_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/L_Ear_null/L_Ear_00_jnt/L_Ear_01_jnt/L_Ear_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/L_Ear_null/L_Ear_00_jnt/L_Ear_01_jnt/L_Ear_02_jnt/L_Ear_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/Skull_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/FK_Neck_null/Neck_FK_00_jnt/Neck_FK_01_jnt/Neck_FK_02_jnt/Neck_FK_end_jnt/Head_null/Skull_00_jnt/Skull_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Front_leg_pole/L_Front_leg_pole_2
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt/L_Phanges_04_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/L_Front_Leg_null/L_Scapula_00_jnt/L_Humerus_01_jnt/L_Unla_Radius_02_jnt/L_Metacarpua_03_jnt/L_Phanges_04_jnt/L_Paw_Tip_05_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Front_leg_pole/R_Front_leg_pole_2
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt/R_Phanges_04_jnt
+        weight: 1
+      - path: PolarBear_Walking/Character/Quadruped_rig/Root_jnt/Spine_null/Spine_00_jnt/Spine_01_jnt/Spine_02_jnt/Spine_03_jnt/Spine_04_jnt/Spine_05_jnt/Spine_06_jnt/Spine_07_jnt/Spine_08_jnt/R_Front_Leg_null/R_Scapula_00_jnt/R_Humerus_01_jnt/R_Unla_Radius_02_jnt/R_Metacarpua_03_jnt/R_Phanges_04_jnt/R_Paw_Tip_05_jnt
+        weight: 1
+      - path: SnowmanMove
+        weight: 1
+      - path: SnowmanMove/Snowman
+        weight: 1
+      - path: SnowmanMove/SnowmanGroup
+        weight: 1
+      - path: SnowmanMove/SnowmanGroup/SnowmanBase
+        weight: 1
+      - path: SnowmanMove/SnowmanGroup/SnowmanBase/SnowmanBend_1
+        weight: 1
+      - path: SnowmanMove/SnowmanGroup/SnowmanBase/SnowmanBend_1/SnowmanBend_2
+        weight: 1
+      - path: SnowmanMove/SnowmanGroup/SnowmanBase/SnowmanBend_1/SnowmanBend_2/SnowmanTop
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

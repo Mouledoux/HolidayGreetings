@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 6a0c80b7e1a74fc408013d8198068ad4
+timeCreated: 1480616875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BearJoint_001
+    100004: BearJoint_002
+    100006: BearJoint_003
+    100008: BearJoint_004
+    100010: BearJoint_005
+    100012: BearJoint_006
+    100014: BearJointLeftArm_001
+    100016: BearJointLeftArm_002
+    100018: BearJointLeftArm_003
+    100020: BearJointLeftArm_004
+    100022: BearJointLeftArm_005
+    100024: BearJointLeftArm_006
+    100026: BearJointRightArm_001
+    100028: BearJointRightArm_002
+    100030: BearJointRightArm_003
+    100032: BearJointRightArm_004
+    100034: BearJointRightArm_005
+    100036: BearJointRightArm_006
+    100038: BearJointRoot
+    100040: BearPose
+    100042: Mug
+    400000: //RootNode
+    400002: BearJoint_001
+    400004: BearJoint_002
+    400006: BearJoint_003
+    400008: BearJoint_004
+    400010: BearJoint_005
+    400012: BearJoint_006
+    400014: BearJointLeftArm_001
+    400016: BearJointLeftArm_002
+    400018: BearJointLeftArm_003
+    400020: BearJointLeftArm_004
+    400022: BearJointLeftArm_005
+    400024: BearJointLeftArm_006
+    400026: BearJointRightArm_001
+    400028: BearJointRightArm_002
+    400030: BearJointRightArm_003
+    400032: BearJointRightArm_004
+    400034: BearJointRightArm_005
+    400036: BearJointRightArm_006
+    400038: BearJointRoot
+    400040: BearPose
+    400042: Mug
+    2300000: Mug
+    3300000: Mug
+    4300000: Mug
+    4300002: BearPose
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BearPose
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BearJointRoot
+        weight: 1
+      - path: BearJointRoot/BearJoint_001
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJoint_003
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJoint_003/BearJoint_004
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJoint_003/BearJoint_004/BearJoint_005
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJoint_003/BearJoint_004/BearJoint_005/BearJoint_006
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001/BearJointLeftArm_002
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001/BearJointLeftArm_002/BearJointLeftArm_003
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001/BearJointLeftArm_002/BearJointLeftArm_003/BearJointLeftArm_004
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001/BearJointLeftArm_002/BearJointLeftArm_003/BearJointLeftArm_004/BearJointLeftArm_005
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointLeftArm_001/BearJointLeftArm_002/BearJointLeftArm_003/BearJointLeftArm_004/BearJointLeftArm_005/BearJointLeftArm_006
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001/BearJointRightArm_002
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001/BearJointRightArm_002/BearJointRightArm_003
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001/BearJointRightArm_002/BearJointRightArm_003/BearJointRightArm_004
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001/BearJointRightArm_002/BearJointRightArm_003/BearJointRightArm_004/BearJointRightArm_005
+        weight: 1
+      - path: BearJointRoot/BearJoint_001/BearJoint_002/BearJointRightArm_001/BearJointRightArm_002/BearJointRightArm_003/BearJointRightArm_004/BearJointRightArm_005/BearJointRightArm_006
+        weight: 1
+      - path: BearPose
+        weight: 1
+      - path: Mug
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
