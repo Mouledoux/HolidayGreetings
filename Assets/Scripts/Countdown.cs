@@ -39,7 +39,8 @@ public class Countdown : MonoBehaviour
         while(timer > 0)
         {
             timer -= Time.deltaTime;
-
+            if (timer < 0)
+                timer = 0;
             rect.localScale = new Vector3(timer % 1 * 5, timer % 1 * 5, 1);
 
             if (timer > 1)
@@ -65,7 +66,7 @@ public class Countdown : MonoBehaviour
             
             yield return null;
         }
-
+        text.text = "";
         loadedAction.Invoke();
     }
 }
