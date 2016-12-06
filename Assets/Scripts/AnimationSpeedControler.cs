@@ -11,6 +11,6 @@ public class AnimationSpeedControler : MonoBehaviour
 
     public void SetAnimationSpeed(float speed)
     {
-        anim["Sled2.0"].speed = speed;
+        anim["Sled3.0"].speed = speed;
     }
 }
