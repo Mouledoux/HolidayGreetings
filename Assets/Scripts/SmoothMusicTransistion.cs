@@ -44,12 +44,6 @@ public class SmoothMusicTransistion : MonoBehaviour
     //    SetNextTrack(trackIndex);
     //}
 
-    [ContextMenu("Next")]
-    public void NextTrack()
-    {
-        SetNextTrack(1);
-    }
-
     public IEnumerator PlayAudioClips()
     {
         while (true)
