@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 786c2f1ae2424204a9fb28477937a98e
+timeCreated: 1481051577
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Penguin_001
+    100004: PenguinGroup_001
+    100006: PenguinJointHead
+    100008: PenguinJointLeftArm1
+    100010: PenguinJointLeftArm2
+    100012: PenguinJointLeftArm3
+    100014: PenguinJointLeftLeg1
+    100016: PenguinJointLeftLeg2
+    100018: PenguinJointNeck
+    100020: PenguinJointRightArm1
+    100022: PenguinJointRightArm2
+    100024: PenguinJointRightArm3
+    100026: PenguinJointRightleg1
+    100028: PenguinJointRightLeg2
+    100030: PenguinJointRoot
+    100032: PenguinJointSpine2
+    100034: PenguinJointSpine3
+    100036: PenguinJointTail1
+    100038: PenguinJointTail2
+    100040: PenguinJointTail3
+    100042: PenguinScaleCTRL
+    400000: //RootNode
+    400002: Penguin_001
+    400004: PenguinGroup_001
+    400006: PenguinJointHead
+    400008: PenguinJointLeftArm1
+    400010: PenguinJointLeftArm2
+    400012: PenguinJointLeftArm3
+    400014: PenguinJointLeftLeg1
+    400016: PenguinJointLeftLeg2
+    400018: PenguinJointNeck
+    400020: PenguinJointRightArm1
+    400022: PenguinJointRightArm2
+    400024: PenguinJointRightArm3
+    400026: PenguinJointRightleg1
+    400028: PenguinJointRightLeg2
+    400030: PenguinJointRoot
+    400032: PenguinJointSpine2
+    400034: PenguinJointSpine3
+    400036: PenguinJointTail1
+    400038: PenguinJointTail2
+    400040: PenguinJointTail3
+    400042: PenguinScaleCTRL
+    4300000: Penguin_001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Penguin_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
