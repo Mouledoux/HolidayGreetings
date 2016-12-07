@@ -4,7 +4,6 @@ using System.Collections;
 public class KidThrow : MonoBehaviour
 {
     Animator anim;
-    public Animation animation;
 
     void Start()
     {
@@ -12,9 +11,9 @@ public class KidThrow : MonoBehaviour
         anim.SetTrigger("Throw");
     }
 
-    [ContextMenu("throw")]
-    public void AnimateSnowBall()
-    {
-        animation.Play();
-    }
+    //[ContextMenu("throw")]
+    //public void AnimateSnowBall()
+    //{
+    //    animation.Play();
+    //}
 }
