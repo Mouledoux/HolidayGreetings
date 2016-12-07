@@ -103,7 +103,7 @@ ModelImporter:
     3300000: Bamboo
     4300000: GiantPanda
     4300002: Bamboo
-    7400000: Take 001
+    7400000: GiantPandaEat
     9500000: //RootNode
     13700000: GiantPanda
   materials:
@@ -126,7 +126,166 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GiantPandaEat
+      takeName: Take 001
+      firstFrame: -40
+      lastFrame: 351
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bamboo
+        weight: 1
+      - path: Bip003
+        weight: 1
+      - path: Bip003/Bip002 Pelvis
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L HorseLink
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 L Thigh/Bip002 L Calf/Bip002
+          L HorseLink/Bip002 L Foot
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R HorseLink
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R HorseLink/Bip002 R Foot
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R HorseLink/Bip002 R Foot/Bip003 R Toe0
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 R Thigh/Bip002 R Calf/Bip002
+          R HorseLink/Bip002 R Foot/Bip003 R Toe0/Bip003 R Toe0Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bip003 HeadNub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bip003 Ponytail1
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bip003 Ponytail1/Bip003 Ponytail1Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bip003 Ponytail2
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bip003 Ponytail2/Bip003 Ponytail2Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bone001
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bone001/Bone002
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bone003
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 Head/Bone004
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002 L Hand
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002 L Hand/Bip003
+          L Finger0
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002 L Hand/Bip003
+          L Finger0/Bip003 L Finger0Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002 L Hand/Bip003
+          L Toe0
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 L Clavicle/Bip002 L UpperArm/Bip002 L Forearm/Bip002 L Hand/Bip003
+          L Toe0/Bip003 L Toe0Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle/Bip002 R UpperArm
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002 R Hand
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002 R Hand/Bip003
+          R Finger0
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Spine1/Bip002 Spine2/Bip002
+          Neck/Bip002 R Clavicle/Bip002 R UpperArm/Bip002 R Forearm/Bip002 R Hand/Bip003
+          R Finger0/Bip003 R Finger0Nub
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Tail
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Tail/Bip003 Tail1
+        weight: 1
+      - path: Bip003/Bip002 Pelvis/Bip002 Spine/Bip002 Tail/Bip003 Tail1/Bip003 TailNub
+        weight: 1
+      - path: Bip003/Bip003 Footsteps
+        weight: 1
+      - path: GiantPanda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
