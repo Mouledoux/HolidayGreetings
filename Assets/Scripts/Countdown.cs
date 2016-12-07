@@ -41,7 +41,7 @@ public class Countdown : MonoBehaviour
             timer -= Time.deltaTime;
             if (timer < 0)
                 timer = 0;
-            rect.localScale = new Vector3((1 - (timer % 1)) * 100, (1 - (timer % 1)) * 100, 1);
+            rect.localScale = new Vector3((1 - (timer % 1)) * 50, (1 - (timer % 1)) * 50, 1);
 
             if (timer > 1)
             {
@@ -56,7 +56,7 @@ public class Countdown : MonoBehaviour
             }
             else
             {
-                text.text = "GO!  ";
+                text.text = "GO!";
                 if (!playGo)
                 {
                     playGo = true;
