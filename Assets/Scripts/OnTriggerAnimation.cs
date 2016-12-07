@@ -5,6 +5,7 @@ public class OnTriggerAnimation : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        GetComponent<Animation>().Play();
+        if(other.gameObject.CompareTag("Player"))
+            GetComponent<Animation>().Play();
     }
 }
