@@ -5,7 +5,10 @@ using System.Collections.Generic;
 public class LightTwinkle : MonoBehaviour
 {
     public List<SpriteRenderer> lights = new List<SpriteRenderer>(); // asdadsasd
-    public List<Color> colors;
+    //public List<Color> colors;
+
+    [Range(0, 255)]
+    public int alpha = 255;
 
     void Start()
     {
@@ -21,16 +24,18 @@ public class LightTwinkle : MonoBehaviour
         }
     }
 
-    [ContextMenu("Colorize")]
+    [ContextMenu("Alpha-ize")]
     public void Colorize()
     {
-        int i = 0;
+        //int i = 0;
+        float a = (float)alpha / 255;
         foreach (SpriteRenderer l in lights)
         {
-            l.color = colors[i];
-            i++;
-            if (i > 3)
-                i = 0;
+            l.color = new Color(l.color.r, l.color.g, l.color.b, a);
+            //l.color = colors[i];
+            //i++;
+            //if (i > 3)
+            //    i = 0;
         }
     }
 
