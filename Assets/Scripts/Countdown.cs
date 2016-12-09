@@ -36,6 +36,8 @@ public class Countdown : MonoBehaviour
         bool playGo = false;
         bool sameNum = false;
 
+        loadedAction.Invoke();
+
         while(timer > 0)
         {
             timer -= Time.deltaTime;
@@ -67,6 +69,5 @@ public class Countdown : MonoBehaviour
             yield return null;
         }
         text.text = "";
-        loadedAction.Invoke();
     }
 }
